@@ -1,0 +1,2 @@
+# Hello
+My name is Ghameerah McCullers and I’m a creative software engineer and problem solver with experience in JavaScript, RESTful routing, managing related data, Content Management Systems, and single-page applications. With a background in sports and finance, I utilize data and cross-functional collaboration to build compelling product experiences and assist with implementing abstract ideas that make sense to people and organizations so that they can help people communicate and interact.
