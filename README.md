@@ -5,4 +5,8 @@ My background actually begins as a student-athlete. I attended Central State Uni
 
 I'm a people person and would love to connect. Please shoot me a message if you'd like to network.
 
-[LinkedIn][https://www.linkedin.com/in/ghameerah-mccullers/] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/ghameerah-mccullers/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:mccullers.ghameerah@gmail.com)
